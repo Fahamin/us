@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">US Live Newspapers</string>
+    <string name="all">All</string>
+    <string name="whitehouse">White House</string>
+    <string name="tecnology">Technology</string>
+    <string name="sport">Sports</string>
+    <string name="snl">SNL</string>
+    <string name="nasa">Nasa</string>
+    <string name="tt">...Welcome...</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="header_title">US NEWS</string>
+
+
+<!--
+    ca-app-pub-3940256099942544/6300978111
+    <string name="banner_ad_unit_id"> ca-app-pub-3940256099942544/6300978111</string>
+    <string name="reward_add_unit">"ca-app-pub-6013605396446078/1389831816"</string>
+&lt;!&ndash;-->
+
+    <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6013605396446078/1874040483</string>
+    <string name="reward_add_unit">"ca-app-pub-6013605396446078/1389831816"</string>
+
+
+    <string name="Rate">Rate This App</string>
+    <string name="shareapp"></string>
+    <string name="Review">Reviews</string>
+    <string name="more">More Apps</string>
+    <string name="exit">Exit</string>
+
+    <string-array name="paper">
+        <item>The Wall Street Journal</item>
+        <item>USA Today</item>
+        <item>The New York Times</item>
+        <item>Las Vegas Review-Journal</item>
+        <item>Chicago Tribune</item>
+        <item>Honolulu Star-Advertiser</item>
+        <item>The Boston Globe</item>
+        <item>The Dallas Morning News</item>
+        <item>The Philadelphia Inquirer</item>
+        <item>The Arizona Republic</item>
+        <item>The San Diego Union-Tribune</item>
+        <item>Star Tribune</item>
+        <item>Tampa Bay Times</item>
+        <item>The Plain Dealer</item>
+        <item>The Star-Ledger</item>
+        <item>Orange County Register</item>
+        <item>Houston Chronicle</item>
+        <item>Los Angeles Times</item>
+        <item>The Mercury News</item>
+        <item>Newsday</item>
+        <item>New York Daily News</item>
+        <item>The Denver Post</item>
+        <item>New York Post</item>
+        <item>The Washington Post</item>
+        <item>Chicago Sun-Times</item>
+        <item>The Barnstable Patriot</item>
+        <item>The Philadelphia Inquirer</item>
+        <item>The Post-Standard</item>
+        <item>Daily Hampshire Gazette</item>
+        <item>Cherokee Phoenix</item>
+        <item>BBC NEWS</item>
+        <item>FOX NEWS</item>
+        <item>NBC</item>
+        <item>ABC</item>
+        <item>KOTAKU</item>
+        <item>GUARDIAN</item>
+        <item>ESPN</item>
+        <item>CBS</item>
+        <item>CNET</item>
+        <item>CNN</item>
+        <item>people</item>
+        <item>opposing views</item>
+        <item>NHL</item>
+        <item>NFL</item>
+        <item>NBA</item>
+        <item>MSNBC</item>
+        <item>ZNET</item>
+        <item>Yahoo</item>
+        <item>Pittsburgh Post-Gazette</item>
+        <item>Hartford Courant</item>
+        <item>The New Hampshire Gazette</item>
+        <item>Intelligencer Journal</item>
+        <item>The Keene Sentinel</item>
+        <item>New York Post</item>
+        <item>The Post and Courier</item>
+        <item>The Fayetteville Observer</item>
+        <item>Press-Republican</item>
+        <item>Rutland Herald</item>
+        <item>Arkansas Democrat-Gazette</item>
+        <item>The Daily Mail</item>
+        <item>Ledger-Enquirer</item>
+        <item>The Recorder</item>
+        <item>The Berkshire Eagle</item>
+        <item>The Augusta Chronicle</item>
+        <item>The Register Star</item>
+        <item>Norwich Bulletin</item>
+    </string-array>
+</resources>

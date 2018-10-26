@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/all"
+            android:icon="@drawable/ic_all"
+            android:title="@string/all" />
+        <item
+            android:id="@+id/whitehouse"
+            android:icon="@drawable/ic_house"
+            android:title="@string/whitehouse" />
+        <item
+            android:id="@+id/snl"
+            android:icon="@drawable/ic_desktop_windows"
+            android:title="@string/snl" />
+        <item
+            android:id="@+id/tecnology"
+            android:icon="@drawable/ic_tecnology"
+            android:title="@string/tecnology" />
+        <item
+            android:id="@+id/sports"
+            android:icon="@drawable/ic_sports"
+            android:title="@string/sport" />
+        <item
+            android:id="@+id/nasa"
+            android:icon="@drawable/ic_nasa"
+            android:title="@string/nasa" />
+    </group>
+    <group>
+
+        <item
+            android:id="@+id/share"
+            android:actionProviderClass="android.widget.ShareActionProvider"
+            android:icon="@drawable/ic_share"
+            android:title="@string/share"
+            />
+
+    </group>
+</menu>

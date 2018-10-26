@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application supporactionbar() parent="Theme.AppCompat.Light.NoActionBar" theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">#dddddd</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+        //show actionvar
+   // parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <style name="App2tt" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#aaaaaa</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
